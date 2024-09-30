@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-06-11 20:24:34</sys_created_on>
-            <sys_id>1a664a2c93f64210115230018bba104e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>priority</sys_name>
             <sys_package display_value="Safety" source="x_1425817_safety">6ed059e093364210115230018bba1085</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2024-06-11 20:24:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>92664a2c93f64210115230018bba104e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-11 20:24:34</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2024-06-11 20:24:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d6664a2c93f64210115230018bba1058</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-11 20:24:34</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2024-06-11 20:24:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>aa664a2c93f64210115230018bba106c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-11 20:24:35</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2024-06-11 20:24:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>de664a2c93f64210115230018bba1063</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-11 20:24:34</sys_updated_on>

@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-06-11 20:24:34</sys_created_on>
-            <sys_id>9a664a2c93f64210115230018bba104b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>category</sys_name>
             <sys_package display_value="Safety" source="x_1425817_safety">6ed059e093364210115230018bba1085</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2024-06-11 20:24:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>16664a2c93f64210115230018bba104b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-11 20:24:34</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2024-06-11 20:24:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>1e664a2c93f64210115230018bba1068</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-11 20:24:34</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2024-06-11 20:24:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>92664a2c93f64210115230018bba1061</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-11 20:24:34</sys_updated_on>
